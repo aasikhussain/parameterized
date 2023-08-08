@@ -1,1 +1,3 @@
-# parameterized
+# maven-project
+
+Simple Maven Project
